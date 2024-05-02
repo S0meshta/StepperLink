@@ -1,0 +1,3 @@
+[submodule "StepperLinkEDA"]
+	path = StepperLinkEDA
+	url = https://github.com/S0meshta/StepperLinkEDA
